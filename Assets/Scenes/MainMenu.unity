@@ -1969,6 +1969,7 @@ MonoBehaviour:
   levelManager: {fileID: 563095662}
   pauseScreen: {fileID: 0}
   loadBar: {fileID: 770529788}
+  playerHP: {fileID: 0}
   starterAssetInputs: {fileID: 0}
   animatorParameterClose: close
   screenAnimationDuration: 1.5
@@ -2038,7 +2039,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1750451603
 MonoBehaviour:
   m_ObjectHideFlags: 0
